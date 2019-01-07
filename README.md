@@ -57,8 +57,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Building Machine Learning Systems with Python - Third Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788623223) [[Amazon]](https://www.amazon.com/dp/1788623223)
 
 ## Get to Know the Author
-**Stefan Jansen**
-, CFA is Founder and Lead Data Scientist at Applied AI where he advises Fortune 500 companies and startups across industries on translating business goals into a data and AI strategy, builds data science teams and develops ML solutions. Before his current venture, he was Managing Partner and Lead Data Scientist at an international investment firm where he built the predictive analytics and investment research practice. He was also an executive at a global fintech startup operating in 15 markets, worked for the World Bank, advised Central Banks in emerging markets, and has worked in 6 languages on four continents. Stefan holds Master's from Harvard and Berlin University and teaches data science at General Assembly and Datacamp.
+**Stefan Jansen**, CFA is Founder and Lead Data Scientist at Applied AI where he advises Fortune 500 companies and startups across industries on translating business goals into a data and AI strategy, builds data science teams and develops ML solutions. Before his current venture, he was Managing Partner and Lead Data Scientist at an international investment firm where he built the predictive analytics and investment research practice. He was also an executive at a global fintech startup operating in 15 markets, worked for the World Bank, advised Central Banks in emerging markets, and has worked in 6 languages on four continents. Stefan holds Master's from Harvard and Berlin University and teaches data science at General Assembly and Datacamp.
 
 
 
